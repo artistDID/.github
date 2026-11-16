@@ -1,4 +1,4 @@
-![artistDID logo](https://github.com/artistDID/media/raw/main/logo/artistDID-wordmark-transparent.png)
+![artistDID logo](https://github.com/artistDID/media/raw/main/logo/artistDID-wordmark.png)
 
 # Decentralized identity for artists.
 
